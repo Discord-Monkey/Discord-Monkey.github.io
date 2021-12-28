@@ -1,12 +1,14 @@
 // ==UserScript==
-// @name         New Userscript
-// @namespace    http://tampermonkey.net/
+// @name         Discord Monkey
+// @namespace    https://discord-monkey.github.io/userscripts.html
 // @version      0.1
-// @description  try to take over the world!
-// @author       You
-// @match        http://*/*
+// @description  An Discord Addon That Gives Users Staff Permissions,Custom Badges,CSS Background And FM Radio 2000 !
+// @author       The Discord Gurus
+// @match        http://*discord.com/*
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant        none
+// @extracted      Sun, 26 Dec 2021 07:02:15 GMT
+// @run-at         document-start
 // ==/UserScript==
 
 (function() {
