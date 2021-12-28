@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  An Discord Addon That Gives Users Staff Permissions,Custom Badges,CSS Background And FM Radio 2000 !
 // @author       The Discord Gurus
-// @match        http://*discord.com/*
+// @match        *://discord.com/channels/@me/*
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant        none
 // @extracted      Sun, 26 Dec 2021 07:02:15 GMT
